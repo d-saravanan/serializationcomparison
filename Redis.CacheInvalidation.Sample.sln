@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPerformanceTest", "Red
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GzipSample", "GzipSample\GzipSample.csproj", "{15FDE61C-D807-43B5-97F7-8F9752A7489D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisWithLocalCacheTest", "RedisWithLocalCacheTest\RedisWithLocalCacheTest.csproj", "{74D2EDBC-E93E-4E55-8F24-8900CD0BA1E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{15FDE61C-D807-43B5-97F7-8F9752A7489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FDE61C-D807-43B5-97F7-8F9752A7489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FDE61C-D807-43B5-97F7-8F9752A7489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D2EDBC-E93E-4E55-8F24-8900CD0BA1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D2EDBC-E93E-4E55-8F24-8900CD0BA1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D2EDBC-E93E-4E55-8F24-8900CD0BA1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D2EDBC-E93E-4E55-8F24-8900CD0BA1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
